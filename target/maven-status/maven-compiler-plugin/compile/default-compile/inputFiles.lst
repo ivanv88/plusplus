@@ -1,0 +1,13 @@
+/home/ivan/IdeaProjects/plusplus/src/main/java/connector/SyncInput.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/domain/CancelEntity.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/dao/CancelDao.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/domain/CancelEntityFactory.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/util/HibernateUtil.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/dao/DummyDao.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/connector/SyncOutput.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/init/PlusPlusInit.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/connector/PlusPlusConnector.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/main/Main.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/service/PackageThread.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/domain/DummyEntityFactory.java
+/home/ivan/IdeaProjects/plusplus/src/main/java/domain/DummyEntity.java
